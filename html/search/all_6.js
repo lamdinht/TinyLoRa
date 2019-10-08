@@ -7,6 +7,7 @@ var searchData=
   ['reg_5ffrf_5fmsb',['REG_FRF_MSB',['../_tiny_lo_ra_8h.html#aa9e79eeafee89809ae618e8c1442e24b',1,'TinyLoRa.h']]],
   ['reg_5fmodem_5fconfig',['REG_MODEM_CONFIG',['../_tiny_lo_ra_8h.html#aebf22bbed2d075d430a67b3cad12c9b4',1,'TinyLoRa.h']]],
   ['reg_5fpa_5fconfig',['REG_PA_CONFIG',['../_tiny_lo_ra_8h.html#af32e257d44b43bf90a535379a12cab17',1,'TinyLoRa.h']]],
+  ['reg_5fpa_5fdac',['REG_PA_DAC',['../_tiny_lo_ra_8h.html#a9f8d15d83023df8b754745cff0050220',1,'TinyLoRa.h']]],
   ['reg_5fpreamble_5flsb',['REG_PREAMBLE_LSB',['../_tiny_lo_ra_8h.html#a35da5c14f9b27376e44a29f6f834e403',1,'TinyLoRa.h']]],
   ['reg_5fpreamble_5fmsb',['REG_PREAMBLE_MSB',['../_tiny_lo_ra_8h.html#a4e17da98cb7d494ef66c62c4a19f87c7',1,'TinyLoRa.h']]],
   ['reg_5fver',['REG_VER',['../_tiny_lo_ra_8h.html#ac56cc95ec46071699b119b24d6d808f9',1,'TinyLoRa.h']]],
